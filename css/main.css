@@ -1,0 +1,77 @@
+body{
+    background-image: url(/2020/TestJS/img/unnamed.jpg);
+}
+
+.block{
+    padding: 15px;
+    background-color: #D7D1CD;
+}
+
+.img{
+    margin-left: auto;
+}
+
+.img-inside{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.row{
+    padding-top: 40px;
+}
+
+.text{
+    margin-top: 70px;
+    text-align: center;
+    margin: 15px;
+}
+.block{
+    border: groove 2px;
+    border-color: #D9BFB3;
+    padding: 30px;
+    margin: 10px !important;
+    border-radius: 30px;
+}
+a{
+    text-decoration: none !important;
+    color: #000 !important;
+}
+a:hover{
+    color: #3E3D3E !important;
+}
+
+.cwd{
+    text-align:right;
+}
+.cwda{
+    cursor: pointer;
+    font-size:16px; 
+    text-decoration:
+    none; padding:11px 20px;
+    color:#000000;
+    background-color:#c193f5;
+    border-radius:29px;
+    border: 8px solid #6e385d;
+}
+.cwdb{
+    cursor: pointer;
+    font-size:16px; 
+    text-decoration:
+    none; padding:11px 20px;
+    color:#000000;
+    background-color:#c193f5;
+    border-radius:29px;
+    border: 8px solid #6e385d;
+}
+.cwda:hover{
+    background-color:#2100fa;
+    color:#32c7ac;
+}
+.cwdb:hover{
+    background-color:#f51111;
+    color:#32c7ac;}
+.cwdr{
+    text-align: right;
+    margin: 5px;
+}
